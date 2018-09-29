@@ -1,15 +1,20 @@
-﻿Watson es un sistema informático de inteligencia artificial que es capaz de responder a preguntas formuladas en lenguaje natural,
-desarrollado por la empresa estadounidense IBM
-Watson responde a las preguntas gracias a una base de datos almacenada localmente.
-La información contenida en esa base de datos proviene de multitud de fuentes, incluyendo enciclopedias, 
+﻿sssssssss
+sssss
+saaas
+
 diccionarios, tesauros, artículos de noticias, y obras literarias, al igual que bases de datos externos, 
 taxonomías, y ontologías (específicamente DBpedia, WordNet).
-A lo largo de tres días en febrero de 2011, para probar sus capacidades reales,
-participó en un partido especial de dos juegos en el concurso de televisión estadounidense Jeopardy!, 
+
+participó en un partido ejwgfrgrhglradounidense Jeopardy!, 
 derrotando a sus dos oponentes humanos: Brad Rutter, el mayor ganador de dinero en toda la historia del programa, 
-y Ken Jennings, el poseedor del récord por la racha más larga de campeonatos (después de haber ganado 75 partidos). Watson recibió el primer premio de $1.000.000, mientras Ken Jennings y Brad Rutter recibieron $300.000 y $200.000, 
+
 respectivamente. Tanto Jennings como Rutter prometieron donar la mitad de sus ganancias respectivas a sus caridades seleccionadas (Jennings eligió a VillageReach, y
-Rutter a Lancaster County Community Foundation),​ mientras IBM dividió las ganancias de Watson entre dos caridades (World Vision y World Community Grid).
-Watson consistentemente superó a sus oponentes humanos en el dispositivo de señalización empleado por el juego,
+Rutter a Lancaster County fdghlhdglhfeighqregheias de Watson entre dos caridades (World Vision y World Community Grid).
+
 pero tuvo problemas en responder a unas pocas categorías,
-notablemente las compuestas de pistas cortas con pocas palabras. 
+
+1
+2
+3
+4
+5

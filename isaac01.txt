@@ -3,7 +3,10 @@
 3
 4
 5
-GitHub es una forja (plataforma de desarrollo colaborativo)
+7
+8
+9
+GitHub es una forja (plataforma de desarrollo colaborativo)///Equipos...
  para alojar proyectos utilizando 
 el sistema de control de versiones Git.
  Se utiliza principalmente para la creación 

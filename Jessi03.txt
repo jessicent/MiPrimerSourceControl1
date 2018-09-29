@@ -7,9 +7,10 @@ realizar uno o diversos tipos de tareas.
 Esto lo diferencia 
 principalmente de otros tipos de programas, 
 como los sistemas 
-operativos (que hacen funcionar la computadora),
-las utilidades (que realizan tareas de mantenimiento o de uso general),
-y las herramientas de desarrollo de software 
-(para crear programas informáticos).
-Las aplicaciones
-pertenecen al software de aplicación.
+Cras scelerisque id arcu volutpat dapibus. Sed semper dui quis nibh dapibus, molestie maximus ante ullamcorper.
+Pellentesque interdum urna libero. Duis sed tortor nibh. Etiam et pulvinar massa. Sed euismod diam id efficitur venenatis. 
+Proin sodales nec est ac bibendum.
+Sed laoreet tellus bibendum lacus lacinia ultrices. Sed venenatis vitae orci eu rhoncus. Maecenas ligula est, iaculis 
+eget ultrices vitae, sodales auctor nisl. Integer in accumsan quam, eget aliquam nibh. Phasellus ut eros facilisis, mattis 
+erat non, pretium lectus. Aliquam eget mi eu metus congue finibus. Donec luctus lacinia massa, in scelerisque metus aliquam
+nec. Nam in lacus risus. Vivamus ut finibus nunc. 

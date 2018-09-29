@@ -1,0 +1,15 @@
+﻿Para poder concursar en Jeopardy!, el equipo de IBM necesitaba desarrollar una tecnología de QA (Question Answering en inglés)
+que tuviera un rendimiento muy parecido e incluso superior al de los campeones del concurso. 
+Necesitaban que Watson acertara más del 85% de las preguntas que respondiera y tenía que ser más rápido que los otros dos
+concursantes en el 70% de las preguntas totales.22​Cuando empezó el desarrollo de Watson ya se había hecho investigación en el
+campo del procesamiento del lenguaje natural, y existían otras tecnologías, como PIQUANT o OpenEphyra.14​
+Éstas estaban entre las mejores de la Text Retrieval Conference (TREC), en la cual se les daba unos documentos y
+unas preguntas para responder en un tiempo determinado.23​ El problema es que en Jeopardy! las pistas que se proporcionan 
+son muy complejas, tienen un lenguaje natural muy rico, con muchas expresiones, la mayoría de veces ambiguas, y de muchísimos
+temas totalmente diferentes.22​ En cambio, en la TREC, las preguntas eran muy concretas y más estructuradas, del tipo 
+¿Dónde nació John Lennon? donde es más fácil saber qué están preguntando. Además, el hecho de tener que responder el 
+70% de todas las preguntas del concurso significaba que necesitaban que Watson fuera muy rápido en encontrar la respuesta,
+pero eso no es suficiente, ya que hay que responderla bien para conseguir esa precisión. Por lo tanto el sistema debía ser
+rápido también a la hora de estimar la confianza para decidir si responder o no.
+Aunque ya se había hecho investigación en el campo del QA, Jeopardy! Suponía un reto mucho mayor que el que se había
+tenido hasta el momento, de ahí que IBM desarrollara su propio sistema, al cual lo llamaron DeepQA.

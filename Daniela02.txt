@@ -12,7 +12,7 @@ Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in the
 generators on the Internet tend to repeat predefined chunks as necessary, making this the first true generator on the
 Internet. It uses a dictionary of over 200 Latin words, combined with a handful of model sentence structures, to generate
 Lorem Ipsum which looks reasonable. The generated Lorem Ipsum is therefore always free from repetition, injected humour,
-or non-characteristic words etc.
+
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla egestas eros purus, eu euismod eros condimentum sed. Donec 
 porta faucibus risus eget auctor. Nunc tempus, lectus eu pharetra consequat, orci eros malesuada dolor, vitae volutpat turpis
 nibh et nunc. Cras et risus vel diam auctor elementum. Aenean placerat ligula quam. Integer ut massa vel mi aliquet iaculis

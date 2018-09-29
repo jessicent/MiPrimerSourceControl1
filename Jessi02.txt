@@ -1,0 +1,15 @@
+﻿Software
+Dentro de la categoría de software de aplicación están incluidos 
+los procesadores de texto como LibreOffice Writer (arriba) y 
+los editores de gráficos rasterizados como Krita (abajo).
+Buscador de Programas en Ubuntu 13.10
+Se conoce como software1​ al soporte lógico de un sistema informático, 
+que comprende el conjunto de los componentes lógicos necesarios que
+hacen posible la realización de tareas específicas, en contraposición a
+los componentes físicos que son llamados hardware. La interacción entre 
+el software y el hardware hace operativo un ordenador (u otro dispositivo),
+es decir, el Software envía instrucciones que 
+el Hardware ejecuta, haciendo
+posible 
+su 
+funcionamiento.

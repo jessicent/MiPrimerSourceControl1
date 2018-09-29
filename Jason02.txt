@@ -1,0 +1,20 @@
+﻿Watson es un sistema informático para búsqueda de respuestas (question answering en inglés),
+desarrollado por IBM.1​ La corporación lo describe como "una aplicación de tecnologías avanzadas diseñadas para el procesamiento de lenguajes naturales,
+la recuperación de información, la representación del conocimiento, 
+el razonamiento automático, y el aprendizaje automático al campo abierto de búsquedas de respuestas,
+" que es "construido en la tecnología DeepQA de IBM para la generación de hipótesis, la recopilación de pruebas masivas,
+el análisis y la calificación."1​
+Según IBM, Watson es un sistema optimizado para trabajo que se diseña para analítica compleja,
+que se hace posible por la integración de procesadores masivamente paralelos de POWER7 y el software DeepQA desarrollado por la corporación.
+Su soporte de hardware para la competición en Jeopardy! comprendía dos unidades con 5 bastidores de nodos controladores, 
+con noventa servidores IBM POWER 750, cada servidor utilizando un procesador de 3.5 GHz con 8 núcleos,
+donde cada núcleo soporta por hardware 4 hilos de ejecución (threads en inglés). 
+El sistema cuenta con un total de 2880 núcleos de procesamiento POWER7, y un total de 16 Terabytes de RAM.15​ 
+El hecho de que el procesador POWER7 es capaz de procesar en una manera masivamente paralela lo convierte en un complemento ideal para el software DeepQA integrado en Watson por IBM, que es embarazosamente paralelo (es decir, un trabajo que es fácilmente dividido en múltiples tareas paralelas.)
+Según John Rennie, 
+Watson puede procesar 500 giga bytes por segundo (el equivalente de un millón de libros).17​ 
+El inventor principal y consultor senior de IBM, Tony Pearson, estimó que el costo total del hardware para Watson
+fue de cerca de $3.000.000.18​ Rennie ha declarado que el contenido de Watson fue almacenado en su RAM para el juego, porque los datos almacenados en discos duros son demasiado lentos para acceder.17​
+El software incorporado en Watson fue escrito utilizando los lenguajes de programación Java y C++, y usa dos estructuras empleadas por la Apache Software Foundation
+— la estructura Hadoop para computación distribuida, y el sistema UIMA (Unstructured Information Management Architecture) para análisis de materiales impresos — así como el software DeepQA desarrollado por IBM y el sistema operativo SUSE Linux Enterprise Server 11.10​19​20​ Según IBM,
+Watson usa más de 100 técnicas diferentes para analizar el lenguaje natural, identificar fuentes, encontrar y generar hipótesis, buscar y puntuar evidencias, combinar y clasificar hipótesis.

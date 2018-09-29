@@ -11,5 +11,7 @@ y Ken Jennings, el poseedor del récord por la racha más larga de campeonatos (
 respectivamente. Tanto Jennings como Rutter prometieron donar la mitad de sus ganancias respectivas a sus caridades seleccionadas (Jennings eligió a VillageReach, y
 Rutter a Lancaster County Community Foundation),​ mientras IBM dividió las ganancias de Watson entre dos caridades (World Vision y World Community Grid).
 Watson consistentemente superó a sus oponentes humanos en el dispositivo de señalización empleado por el juego,
-pero tuvo problemas en responder a unas pocas categorías,
-notablemente las compuestas de pistas cortas con pocas palabras. 
+Nam eget erat in dui dapibus maximus nec eu risus. Vivamus in lorem tempor lacus lacinia luctus.
+Etiam ac nibh nisl. Nullam vel magna a leo posuere ultrices blandit non nunc.
+Maecenas ornare maximus interdum. Praesent fermentum auctor orci, id laoreet lacus dictum a. Etiam porta placerat sapien,
+et posuere turpis commodo eget. Etiam commodo placerat mollis. 

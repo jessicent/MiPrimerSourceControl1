@@ -1,0 +1,15 @@
+En informática, 
+una aplicación 
+es un programa informático 
+diseñado como herramienta
+para permitir a un usuario
+realizar uno o diversos tipos de tareas. 
+Esto lo diferencia 
+principalmente de otros tipos de programas, 
+como los sistemas 
+operativos (que hacen funcionar la computadora),
+las utilidades (que realizan tareas de mantenimiento o de uso general),
+y las herramientas de desarrollo de software 
+(para crear programas informáticos).
+Las aplicaciones
+pertenecen al software de aplicación.

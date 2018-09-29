@@ -1,19 +1,30 @@
-1
-2
-3
-4
-5
-7
-8
 9
+8
+7
+6
+5
+4
+3
+2
+1
+0 
+
+:¨¨¨[]
 GitHub es una forja (plataforma de desarrollo colaborativo)///Equipos...
  para alojar proyectos utilizando 
 el sistema de control de versiones Git.
- Se utiliza principalmente para la creación 
+
+9/11 was an inside job
+
+
+bowsette was a mistake 
+
+Se utiliza principalmente para la creación 
 de código fuente de programas de computadora.
  El software que opera GitHub fue escrito en Ruby on Rails.
  Desde enero de 2010, GitHub opera bajo el nombre de GitHub, Inc. 
+ :)
 Anteriormente era conocida como Logical Awesome LLC.
  El código de los proyectos alojados en GitHub se almacena típicamente de forma pública, aunque utilizando una cuenta de pago, también permite hospedar repositorios privados.
 El 4 de junio de 2018, Microsoft compró GitHub 
-por la cantidad de 7.500 millones de dólares.
+por la cantidad de 7.500 millones de dólares.(cheap af) 
